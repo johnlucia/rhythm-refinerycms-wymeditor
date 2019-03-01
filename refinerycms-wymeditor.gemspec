@@ -1,7 +1,7 @@
 # Encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
-  s.name              = %q{rhythm-refinerycms-wymeditor}
+  s.name              = %q{refinerycms-wymeditor}
   s.version           = '1.1.0'
   s.summary           = %q{WYMeditor support for Refinery CMS}
   s.description       = %q{This extension adds WYMeditor support to Refinery CMS for visual editing.}
